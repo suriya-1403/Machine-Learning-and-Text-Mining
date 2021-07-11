@@ -1,4 +1,4 @@
-**Part 1: Machine Learning Models**
+# **Part 1: Machine Learning Models**
 
 You work for an office transport company. You are in discussions with ABC Consulting company for providing transport for their employees. For this purpose, you are tasked with understanding how do the employees of ABC Consulting prefer to commute presently (between home and office). Based on the parameters like age, salary, work experience etc. given in the data set ‘Transport.csv’, you are required to predict the preferred mode of transport. The project requires you to build several Machine Learning models and compare them so that the model can be finalised. 
 
@@ -30,7 +30,7 @@ The objective is to build various Machine Learning models on this data set and b
 4. Which model performs the best? 
 5. What are your business insights? 
 
-**Part 2: Text Mining** 
+# **Part 2: Text Mining** 
 
 A dataset of Shark Tank episodes is made available. It contains 495 entrepreneurs making their pitch to the VC sharks.
  
@@ -44,4 +44,10 @@ You will ONLY use “Description” column for the initial text mining exercise.
 - What were the top 3 most frequently occurring words in both corpuses (after removing stop words)? 
 - Plot the Word Cloud for both the corpora. 
 4. Refer to both the word clouds. What do you infer? 
-5. Looking at the word clouds, is it true that the entrepreneurs who introduced devices are less likely to secure a deal based on your analysis? 
+5. Looking at the word clouds, is it true that the entrepreneurs who introduced devices are less likely to secure a deal based on your analysis?
+
+## WordCloud Screenshots:
+
+![W1](https://user-images.githubusercontent.com/61049979/125207295-256a3580-e2a9-11eb-851b-bb663db1ac25.PNG)
+![W2](https://user-images.githubusercontent.com/61049979/125207299-3024ca80-e2a9-11eb-8d61-bd3e4d8704fe.PNG)
+
